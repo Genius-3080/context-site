@@ -30,6 +30,7 @@ background-size: cover;
   border: none;
     padding: 0px 5px;
     color: rgb(0, 0, 0);
+    cursor: pointer;
 }
 .nav__btn2 {
     background: none;
@@ -37,6 +38,7 @@ background-size: cover;
     color: white;
    border: none;
     padding: 0px 5px;
+    cursor: pointer;
 }
 .nav{
     width: 100%;
