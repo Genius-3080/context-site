@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+
+    margin: 0 auto;
+}
+
+ .header {
+width: 100vw;
+height: 100vh;
+background-image: url('./img/windows-11-blue-stock-white-background-light-official-3840x2400-5616.jpg');
+background-position: center;
+background-size: cover;
+} 
+.header2{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./img/windows-11-stock-black-abstract-black-background-amoled-3840x2400-8971.jpg');
+    background-position: center;
+background-size: cover;
+} 
+
+
+
+.nav__btn {
+    background: none;
+  border: none;
+    padding: 0px 5px;
+    color: rgb(0, 0, 0);
+}
+.nav__btn2 {
+    background: none;
+    border: none;
+    color: white;
+   border: none;
+    padding: 0px 5px;
+}
+.nav{
+    width: 100%;
+    backdrop-filter: blur(10px);
+    display: flex;
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+   padding: 0px 10px;
+    ul{
+        display: flex;
+        li{
+            margin: 0px 30px;
+            list-style: none;
+        }
+    }
+}
+
